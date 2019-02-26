@@ -1,6 +1,6 @@
 # DITA-OT PDF Customization Plugin for oXygen User Manual 
 
-This project represents a **DITA-OT PFD** customization plugin used to generate the user manual for oXygen XML Editor in the PDF format. It was tested with the **DITA-OT 2.4** processor.
+This project represents a **DITA-OT PDF** customization plugin used to generate the user manual for oXygen XML Editor in the PDF format. It was tested with the **DITA-OT 2.4** processor.
 
 This project uses [Travis CI](https://travis-ci.org/) for continuous integration, so a PDF sample is generated whenever the customization is modified. You can view the results of this customization by opening one of the following recently generated PDFs:
 * [oXygen XML Editor User Manual](https://oxygenxml.github.io/com.oxygenxml.pdf2.ug/oXygen-ug/editor/UserManual.pdf)
